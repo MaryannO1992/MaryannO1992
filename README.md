@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**MaryannO1992/MaryannO1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Hi, I'm Mary-Ann 👋
-
 ## 👨‍💻 About Me
 I'm a Java developer focused on building real-world side projects.  
 I enjoy working with object-oriented design, improving code quality, and learning by doing.
@@ -24,4 +20,4 @@ I enjoy working with object-oriented design, improving code quality, and learnin
 - Build practical projects
 - Continuously improve through hands-on experience
 
--->
+
